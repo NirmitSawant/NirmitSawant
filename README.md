@@ -1,4 +1,6 @@
-### Hi there 👋
+![avatar](https://user-images.githubusercontent.com/45462725/88512256-ea251700-d003-11ea-9a4f-29bc47bddc9e.gif) <h2>I'm Nirmit Rajesh Sawant!</h2>
+
+ 
 
 <!--
 **NirmitSawant/NirmitSawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
