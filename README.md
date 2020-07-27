@@ -1,22 +1,19 @@
 
 ![avatar](https://user-images.githubusercontent.com/45462725/88512256-ea251700-d003-11ea-9a4f-29bc47bddc9e.gif)
-<h2>Namaste 🙏 , I'm Nirmit Rajesh Sawant!</h2>  
+# 🙏 Namaste 🙏 , I'm Nirmit Rajesh Sawant!
+- I'm a tech enthusiast who loves exploring new things , trying to get better with practise.
 
-[![Linkedin Badge](https://img.shields.io/badge/%20-NirmitSawant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirmit-sawant/)](https://www.linkedin.com/in/nirmit-sawant/)
-[![Instagram Badge](https://img.shields.io/badge/%20-NirmitSawant-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/SawantNirmit/)](https://www.instagram.com/SawantNirmit/)
-[![Gmail Badge](https://img.shields.io/badge/-sawantnirmit@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sawantnirmit@gmail.com)](mailto:sawantnirmit@gmail.com)
+## ⚡ Domains:                                 
+- Flutter Development                          
+- UI/UX Development                              
+- Python Programming                          
 
-<!--
-**NirmitSawant/NirmitSawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖤 Things I love:
+- Music 🎶
+- Treks 🏔
+- Football ⚽️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Connect With Me On
+- [![Linkedin Badge](https://img.shields.io/badge/%20-NirmitSawant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirmit-sawant/)](https://www.linkedin.com/in/nirmit-sawant/)
+- [![Instagram Badge](https://img.shields.io/badge/%20-NirmitSawant-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/SawantNirmit/)](https://www.instagram.com/SawantNirmit/)
+- [![Gmail Badge](https://img.shields.io/badge/-sawantnirmit@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sawantnirmit@gmail.com)](mailto:sawantnirmit@gmail.com)
