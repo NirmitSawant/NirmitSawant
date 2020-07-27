@@ -3,7 +3,7 @@
 # 🙏 Namaste 🙏 , I'm Nirmit Rajesh Sawant!
 - I'm a tech enthusiast who loves exploring new things , trying to get better with practise.
 
-### ⚡ Domains:                                 
+### ⚡ Domains that I am learning:                                 
 - Flutter Development                          
 - UI/UX Development                              
 - Python Programming                          
