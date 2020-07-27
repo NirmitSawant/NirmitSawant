@@ -1,8 +1,7 @@
 
-![avatar](https://user-images.githubusercontent.com/45462725/88512256-ea251700-d003-11ea-9a4f-29bc47bddc9e.gif)
+![avatar](https://user-images.githubusercontent.com/45462725/88512256-ea251700-d003-11ea-9a4f-29bc47bddc9e.gif) ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=NirmitSawant&show_icons=true&hide_border=true)
 # 🙏 Namaste 🙏 , I'm Nirmit Rajesh Sawant!
-- I'm a tech enthusiast who loves exploring new things , trying to get better with practise.
-
+- I'm a tech enthusiast who loves exploring new things , trying to get better with practise. 
 ### ⚡ Domains that I am learning:                                 
 - Flutter Development                          
 - UI/UX Development                              
