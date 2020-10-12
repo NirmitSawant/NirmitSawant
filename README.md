@@ -4,8 +4,7 @@
 - I'm a tech enthusiast who loves exploring new things , trying to get better with practise.
 
 ### ⚡ Technologies that I am learning:                                 
-<img src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/python%20-%EE82EEC.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/c%20-%23FFFC00.svg?&style=for-the-badge&logo=c&logoColor=black"/>  <img src="https://img.shields.io/badge/mysql-%23FF9900.svg?&style=for-the-badge&logo=mysql&logoColor=black"/>  <img src="https://img.shields.io/badge/github%20-%23D42029.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>   <img src="https://img.shields.io/badge/html5%20-%23039BE5.svg?&style=for-the-badge&logo=html5"/>  <img src="https://img.shields.io/badge/python%20-%EE82EEC.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/c%20-%23FFFC00.svg?&style=for-the-badge&logo=c&logoColor=black"/>  <img src="https://img.shields.io/badge/css3-%23FF9900.svg?&style=for-the-badge&logo=css3&logoColor=black"/>  <img src="https://img.shields.io/badge/bootstrap%20-%23D42029.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 ### 🖤 Things I love:
 - Music 🎶
