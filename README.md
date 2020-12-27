@@ -1,5 +1,5 @@
 
-![avatar1](https://user-images.githubusercontent.com/45462725/88569389-ffc42c00-d057-11ea-806a-ed903aa28087.gif)![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=NirmitSawant&show_icons=true&hide_border=true) 
+![avatar1](https://user-images.githubusercontent.com/45462725/88569389-ffc42c00-d057-11ea-806a-ed903aa28087.gif)  ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=NirmitSawant&show_icons=true&hide_border=true) 
 
 # 🙏 Namaste 🙏 , I'm Nirmit Rajesh Sawant!
 - I'm a tech enthusiast who loves exploring new things , trying to get better with practise.
